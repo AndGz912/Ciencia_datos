@@ -75,15 +75,15 @@ Estos gráficos permiten detectar rápidamente las fortalezas y debilidades de c
 - Lenguaje: **Python**
 - Librerías: `pandas`, `matplotlib`, `seaborn`
 - Visualización: gráficos interactivos y estáticos
-- Entorno: Jupyter Notebook / Google Colab
+- Entorno: Google Colab
 
 ---
 
 ## 📚 Autor
 
-Desarrollado por [Tu Nombre Aquí]  
-Proyecto académico - Curso de Ciencia de Datos  
-[Alura LATAM | Universidad UTP]
+Desarrollado por [Andrew Gonzales Zeña]  
+Curso de Ciencia de Datos - G8
+[Alura LATAM] [Orable Nex Education]
 
 ---
 
